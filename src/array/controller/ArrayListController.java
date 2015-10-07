@@ -18,6 +18,7 @@ public class ArrayListController
 	public void start()
 	{
 		firstWords.add("aksdjlfh");
+		firstWords.add("bababababbabababababababababa");
 		displayList();
 	}
 	
